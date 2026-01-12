@@ -13,7 +13,7 @@ const Contact = () => {
 
         <div className="space-y-2 text-gray-700">
           <p>
-            <strong>Email:</strong> support@estatehouz.com
+            <strong>Email:</strong> support@Estatehouz.com
           </p>
           <p>
             <strong>Phone:</strong> +91-9573819495

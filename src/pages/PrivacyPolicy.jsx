@@ -10,7 +10,7 @@ const PrivacyPolicy = () => {
         </p>
 
         <p className="mb-4">
-          This Privacy Policy explains how <strong>EstateHouz</strong> collects,
+          This Privacy Policy explains how <strong>Estatehouz</strong> collects,
           uses, and protects your personal information when you use our
           application.
         </p>

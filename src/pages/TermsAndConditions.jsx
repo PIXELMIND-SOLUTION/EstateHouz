@@ -13,7 +13,7 @@ const TermsAndConditions = () => {
           1. Acceptance of Terms
         </h2>
         <p>
-          By using this <strong>EstateHouz</strong> app, you agree to comply with these Terms & Conditions.
+          By using this <strong>Estatehouz</strong> app, you agree to comply with these Terms & Conditions.
         </p>
 
         <h2 className="font-semibold text-lg mt-5 mb-2">
